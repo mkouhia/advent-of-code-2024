@@ -91,3 +91,7 @@ dependencies = [
 [[package]]
 name = "y24d04"
 version = "0.1.0"
+
+[[package]]
+name = "y24d05"
+version = "0.1.0"
