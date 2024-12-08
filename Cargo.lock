@@ -124,3 +124,10 @@ version = "0.1.0"
 dependencies = [
  "itertools",
 ]
+
+[[package]]
+name = "y24d08"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]

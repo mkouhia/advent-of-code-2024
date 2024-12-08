@@ -1,4 +1,13 @@
 [workspace]
 resolver = "2"
 
-members = ["y24d01", "y24d02", "y24d03", "y24d04", "y24d05", "y24d06", "y24d07"]
+members = [
+    "y24d01",
+    "y24d02",
+    "y24d03",
+    "y24d04",
+    "y24d05",
+    "y24d06",
+    "y24d07",
+    "y24d08",
+]
